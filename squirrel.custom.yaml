@@ -1,0 +1,10 @@
+patch:
+    app_options:
+        {}
+    style:
+        color_scheme: native
+        # 横向显示
+        horizontal: true
+        inline_preedit: true
+        corner_radius: 5
+
